@@ -2,5 +2,6 @@ package com.test;
 
 public class domain {
     private int id;
-    private Sting name;
+    private String name;
+    private String addr;
 }
